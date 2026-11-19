@@ -1,0 +1,11 @@
+{
+  "name": "燒酒會（提案示範）",
+  "short_name": "燒酒會",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#120a14",
+  "theme_color": "#120a14",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
