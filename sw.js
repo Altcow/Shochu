@@ -1,5 +1,5 @@
 // 提案示範用 service worker：先拿網路、失敗用快取
-const VERSION = 'shochu-1.3.3'
+const VERSION = 'shochu-1.3.4'
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VERSION).then(c => c.addAll(['./', './index.html', './manifest.webmanifest', './icon.svg'])))
   self.skipWaiting()
