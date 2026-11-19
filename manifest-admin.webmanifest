@@ -1,7 +1,8 @@
 {
   "name": "燒酒會後台",
   "short_name": "燒酒會後台",
-  "start_url": "./#/admin",
+  "id": "./admin/",
+  "start_url": "./admin/",
   "scope": "./",
   "display": "standalone",
   "background_color": "#120a14",

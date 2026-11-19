@@ -1,6 +1,7 @@
 {
   "name": "燒酒會（提案示範）",
   "short_name": "燒酒會",
+  "id": "./",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#120a14",
